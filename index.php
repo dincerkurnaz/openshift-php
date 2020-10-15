@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Hello World!</title>
+<title>Bir Dincer Kolay Yetismiyor!</title>
 </head>
 
 <body>
